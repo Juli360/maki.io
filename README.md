@@ -1,2 +1,0 @@
-# maki.io
-makinak
